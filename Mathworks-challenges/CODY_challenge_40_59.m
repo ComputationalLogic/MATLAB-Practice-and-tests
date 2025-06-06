@@ -12,6 +12,8 @@ end
   disp(y)
 end
 
+
+
 %%%% Alternative solution:
 function y = RevCountSeq(x)
   y = [];
